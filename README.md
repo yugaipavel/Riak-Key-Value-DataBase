@@ -4,6 +4,8 @@ For NoSQL Riak DB, select queries have been implemented using Python 3.7 to crea
 
 ![alt text](screenshots/menu.jpg "Menu of program")
 
+Below are graphs of the dependence of the execution time of one operation for creating a key-value on the number of records and the time for performing one operation for obtaining a value by a key on the number of records in the database.
+
 ![alt text](screenshots/graph_create_key_value_Riak_KV.jpg "Performance graph of a сreate key-value for NoSQL Riak")
 
 ![alt text](screenshots/graph_get_key_value_Riak_KV.jpg "Performance graph of a get value by key operation for NoSQL Riak")
